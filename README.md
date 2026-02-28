@@ -13,13 +13,13 @@
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" alt="gif"/>
     </td>
     <td style="padding-left: 30px;">
-      <a href="https://www.linkedin.com/in/yanduru-vishnu-sai-vardhan-b5176124b/" target="_blank">
+      <a href="https://www.linkedin.com/in/vishnusai24" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a><br><br>
       <a href="https://instagram.com/vishnu_clicks_official" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
       </a><br><br>
-      <a href="https://www.codechef.com/users/klu_2200030543" target="_blank">
+      <a href="https://www.codechef.com/users/vishnusai_24" target="_blank">
         <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
       </a>
     </td>
